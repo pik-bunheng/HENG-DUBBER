@@ -1,0 +1,11 @@
+{
+  "version": "1.2.9",
+  "release_date": "2026-07-18",
+  "download_url": "https://github.com/username/repository/releases/download/v1.2.8/HengDubber.exe",
+  "changelog": [
+    "Added In-App GitHub Update feature with styled progress bar",
+    "Asynchronous version checking and executable download",
+    "Automatic hot-swap installation using Windows batch script",
+    "Graceful restart and self-deleting installer support"
+  ]
+}
